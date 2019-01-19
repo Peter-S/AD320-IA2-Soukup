@@ -1,1 +1,1 @@
-# AD320-IA2-SoukupPeter
+# AD320-IA2-Soukup
