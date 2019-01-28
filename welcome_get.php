@@ -1,6 +1,7 @@
 <html>
 <body>
 
+
 Name:   <?php echo $_GET["name"]; ?>
 	<br><br>
 Email: <?php echo $_GET["email"]; ?>
